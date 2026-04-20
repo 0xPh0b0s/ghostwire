@@ -11,7 +11,7 @@
   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝    ╚══╝╚══╝ ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-[![License](https://img.shields.io/badge/license-GPL--2.0-red?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-red?style=flat-square)](LICENSE)
 [![Kernel](https://img.shields.io/badge/kernel-5.x%20%2F%206.x-informational?style=flat-square&logo=linux)](https://kernel.org)
 [![Arch](https://img.shields.io/badge/arch-x86__64-lightgrey?style=flat-square)]()
 [![Language](https://img.shields.io/badge/language-C%20%7C%20Python-00ff88?style=flat-square)]()
