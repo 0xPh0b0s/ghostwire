@@ -210,6 +210,7 @@ ghostwire is intentionally detectable — part of understanding offense is under
 
 GPL-2.0 — see [LICENSE](LICENSE).
 credits reserved to [0xNullVector](https://github.com/0xNullVector)
+
 ---
 
 <div align="center">
