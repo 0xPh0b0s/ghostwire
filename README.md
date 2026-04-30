@@ -1,7 +1,6 @@
 # ghostwire
 
 > **Educational Linux LKM Rootkit PoC** — syscall hooking, process/file hiding, module concealment & privilege escalation primitives.
-
 ```
   ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗██╗    ██╗██╗██████╗ ███████╗
  ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝██║    ██║██║██╔══██╗██╔════╝
@@ -210,9 +209,9 @@ ghostwire is intentionally detectable — part of understanding offense is under
 ## License
 
 GPL-2.0 — see [LICENSE](LICENSE).
-
+credits reserved to [0xNullVector](https://github.com/0xNullVector)
 ---
 
 <div align="center">
-<sub>built in the lab, not the wild — [0xNullVector](https://github.com/0xNullVector)</sub>
+<sub>built in the lab, not the wild — 0xNullVector</sub>
 </div>
