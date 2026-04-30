@@ -214,5 +214,5 @@ GPL-2.0 — see [LICENSE](LICENSE).
 ---
 
 <div align="center">
-<sub>built in the lab, not the wild — 0xNullVector</sub>
+<sub>built in the lab, not the wild — [0xNullVector](https://github.com/0xNullVector)</sub>
 </div>
