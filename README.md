@@ -18,7 +18,7 @@
 
 ---
 
-> ⚠️ **DISCLAIMER — READ BEFORE CLONING**
+> **DISCLAIMER — READ BEFORE CLONING**
 >
 > ghostwire is a **purely educational proof-of-concept** demonstrating well-documented kernel rootkit techniques. It is intended for security researchers, students, and CTF players learning about Linux kernel internals and offensive tooling.
 >
@@ -206,13 +206,11 @@ ghostwire is intentionally detectable — part of understanding offense is under
 
 ---
 
+## Additional Infos:
+- If you run into any issues or find ways to improve it (without turning it from an educational tool to an actual pentesting tool) 
+
 ## License
 
 GPL-2.0 — see [LICENSE](LICENSE).
-credits reserved to [0xNullVector](https://github.com/0xNullVector)
+credits reserved to [0xPh0b0s](https://github.com/0xPh0b0s)
 
----
-
-<div align="center">
-<sub>built in the lab, not the wild — 0xNullVector</sub>
-</div>
